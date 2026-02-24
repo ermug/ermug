@@ -1,6 +1,6 @@
-<img width="1000" height="1600" alt="Big Boss from Metal Gear Solid Five saying 'Kept you waiting, huh?'" src="https://raw.githubusercontent.com/ermug/ermug/91f1b19fcee55b3718e9b5e5478b1c43e22a88e5/Boss%20Kept%20you%20waiting.jpg" />
+<img width="1000" height="1600" alt="Kerbal X Blueprint'" src="https://raw.githubusercontent.com/ermug/ermug/refs/heads/main/ksp%20kerbal%20x%20.png" />
 
-# Hello!! I'm `V`
+# Hello!! I'm `ermug`
 
 i'm a `University of Michigan` CS student and I'm building an autonomous vehicle with my friends and some corporate sponsors
 
