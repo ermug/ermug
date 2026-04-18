@@ -1,4 +1,4 @@
-<img width="1000" height="1600" alt="Kerbal X Blueprint'" src="https://raw.githubusercontent.com/ermug/ermug/refs/heads/main/ksp%20kerbal%20x%20.png" />
+<img width="1600" height="1000" alt="Kerbal X Blueprint'" src="https://raw.githubusercontent.com/ermug/ermug/refs/heads/main/ksp%20kerbal%20x%20.png" />
 
 # Hello!! I'm `ermug`
 
